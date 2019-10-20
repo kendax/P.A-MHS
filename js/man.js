@@ -5,7 +5,7 @@ jQuery(document).ready(function(){
 		width:'100%',
 		circular:true,
 		scroll:{
-				items:1,
+				items:3,
 				duration:400,
 				pauseOnHover:true
 			},
