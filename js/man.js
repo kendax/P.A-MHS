@@ -5,8 +5,8 @@ jQuery(document).ready(function(){
 		width:'100%',
 		circular:true,
 		scroll:{
-				items:3,
-				duration:400,
+				items:1,
+				duration:500,
 				pauseOnHover:true
 			},
 			auto:true,
