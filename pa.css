@@ -1447,15 +1447,7 @@ body{
 	nav{
 		width:100%;
 	}
-	.logos1 img{
-		display: none;
-	}
-	.logos2 img{
-		display: none;
-	}
-	.logos1n2{
-		display: none;
-	}
+	
 	.secondary{
 		transform: translateY(-18%);
 	}
