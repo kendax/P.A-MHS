@@ -1700,14 +1700,7 @@ body{
 		background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("lee.jpg");
 		background-size:100% 100%;
 	}
-
-}
-@media screen and (max-width:860px){
-	nav{
-		width:100%;
-	}
-
-        .logos1 img{
+	  .logos1 img{
 		display: none;
 	}
 	.logos2 img{
@@ -1716,6 +1709,14 @@ body{
 	.logos1n2{
 		display: none;
 	}	
+
+}
+@media screen and (max-width:860px){
+	nav{
+		width:100%;
+	}
+
+      
 }
 @media screen and (max-width:810px){
 	.team-man{
