@@ -2148,4 +2148,7 @@ body{
 #header1 h4{
 	color: white;
 }
-
+.logins-and-signups{
+	transform:translateX(100%);
+	
+}
