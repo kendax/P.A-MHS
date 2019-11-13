@@ -2148,7 +2148,9 @@ body{
 #header1 h4{
 	color: white;
 }
+.logins-and -signups{
+	transform:translateY(-30);
+}
 .logins-and-signups{
 	transform:translateX(230%);
-	
 }
